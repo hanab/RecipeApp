@@ -1,0 +1,23 @@
+### Summary: Include screen shots or a video of your app highlighting its features
+      - The application shows a list of recipes in a list view (grid view), each item shows the image, name, and cusine
+      - When clicking on the list view item, a detail view that contains the large image, name, cusine, source link, and youtube video link appears
+      - When clicking on a sorce link, the link opens in the browser showing the recipe 
+      - Clicking on the video plays the video in full screen mode
+
+      
+  [![Watch Application Demo](https://github.com/user-attachments/assets/1acde691-971f-471c-af0d-e58749dc772d)](https://drive.google.com/file/d/1gGaVHUchSMHWK6ZDfzRKsB1rtGweKWsH/view?usp=drive_link)
+  
+
+
+### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
+      - My main focus was structuring the application well and creating a testable code using protocol oriented architecture 
+      - The reason I chose to focus on this is that it is important to write testable code when working in a team enviroment so that bugs can be caught in early and also well structured code imporoves readablity and collaberation
+      - I also focused on building the mimimum requirements well
+
+### Time Spent: Approximately how long did you spend working on this project? How did you allocate your time?
+
+### Trade-offs and Decisions: Did you make any significant trade-offs in your approach?
+
+### Weakest Part of the Project: What do you think is the weakest part of your project?
+
+### Additional Information: Is there anything else we should know? Feel free to share any insights or constraints you encountered.
