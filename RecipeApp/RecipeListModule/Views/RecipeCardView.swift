@@ -32,6 +32,7 @@ struct RecipeCardView: View {
                 .foregroundColor(.gray)
                 .padding(.horizontal)
                 .multilineTextAlignment(.center)
+                .padding(.bottom, 8)
         }
         .frame(width: 160, height: 210, alignment: .top)
         .background(.white)
